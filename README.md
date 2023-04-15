@@ -1,4 +1,4 @@
-# YOLO Export Format Converter
+# Label-studio Yolo to YoloV8
 
 This project converts YOLO export format in Label-studio to YOLOv8 and splits the result into three directories - train, valid and test and generate a `data.yaml` file
 
