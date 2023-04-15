@@ -27,7 +27,7 @@ To use the converted dataset for YOLOv8 training, you can follow the steps outli
 
 ## Contact
 
-If you have any questions or suggestions, please feel free to open an issue on GitHub or contact TensorGras directly through their GitHub profile.
+If you have any questions or suggestions, please feel free to open an issue on GitHub or contact TensorGrass directly through their GitHub profile.
 
 ## Credits
 
